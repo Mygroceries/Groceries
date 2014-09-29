@@ -1,0 +1,1288 @@
+Source Code
+
+Baby Care.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="babycare.aspx.cs" Inherits="babycare" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>baby care</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (baby care) -->
+<form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+<img src="images/images/baby-care.gif" width="1365" height="1800" alt="">
+<!-- End Save for Web Slices -->
+
+    
+</body>
+</html>
+
+Burger.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Burger.aspx.cs" Inherits="Burger" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (sandwiches) -->
+    <form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+
+    <table id="Table_01" width="1366" height="1801" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="7">
+			<img src="images/images/burgers_01.gif" width="1365" height="387" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="387" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<img src="images/images/burgers_02.gif" width="132" height="1413" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/classic-burger.gif" width="567" height="483" alt="">
+            <a href= "http://www.myrecipes.com/recipe/classic-burger-10000001076692/"> View Recipe</a>
+            </td>
+		<td colspan="4">
+			<img src="images/images/burgers_04.gif" width="666" height="274" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="274" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/images/burgers_05.gif" width="27" height="434" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/gyro-burger.gif" width="571" height="406" alt="">
+            <a href= "http://www.myrecipes.com/recipe/gyro-burgers-with-tahini-sauce-10000000467198/"> View Recipe </a>
+            </td>
+		<td rowspan="5">
+			<img src="images/images/burgers_07.gif" width="68" height="1139" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="209" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/burgers_08.gif" width="567" height="225" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="197" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/burgers_09.gif" width="571" height="28" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="28" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/burgers_10.gif" width="108" height="705" alt=""></td>
+		<td colspan="3">
+			<img src="images/images/bistro-burger.gif" width="664" height="476" alt="">
+            <a href= "http://www.foodnetwork.com/recipes/food-network-kitchens/bistro-burgers-recipe.html"> View Recipe </a>
+            </td>
+		<td rowspan="2">
+			<img src="images/images/burgers_12.gif" width="393" height="705" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="476" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="images/images/burgers_13.gif" width="664" height="229" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="229" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="132" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="108" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="459" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="27" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="178" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="393" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="68" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
+
+
+
+
+
+
+
+Dairy.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="dairy.aspx.cs" Inherits="dairy" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+   <form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+<!-- Save for Web Slices (dairy) -->
+<img src="images/images/farmfresh.gif" width="1365" height="1800" alt="">
+<!-- End Save for Web Slices -->
+
+</body>
+</html>
+
+
+Desserts.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="desserts.aspx.cs" Inherits="desserts" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (sandwiches) -->
+    <form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+<!-- Save for Web Slices (soups and salads) -->
+<table id="Table_01" width="1366" height="1801" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="8">
+			<img src="images/images/desserts_01.gif" width="1365" height="370" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="370" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<img src="images/images/desserts_02.gif" width="100" height="1430" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/chocolate-mint-desserts.gif" width="445" height="319" alt="">
+            ">
+            <a href= "http://www.myrecipes.com/recipe/chocolate-mint-bars-10000001714574/"> View Recipe </a>
+            </td>
+		<td rowspan="2">
+			<img src="images/images/desserts_04.gif" width="108" height="447" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/chocolate-chip.gif" width="608" height="319" alt="">
+            ">
+            <a href= "http://www.tasteofhome.com/recipes/chocolate-chip-cookie-dough-cheesecake"> View Recipe </a>
+            </td>
+		<td colspan="2" rowspan="3">
+			<img src="images/images/desserts_06.gif" width="104" height="805" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="319" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/desserts_07.gif" width="445" height="128" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/desserts_08.gif" width="608" height="128" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="128" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<img src="images/images/desserts_09.gif" width="2" height="983" alt=""></td>
+		<td colspan="3" rowspan="2">
+			<img src="images/images/fudge-cake.gif" width="645" height="605" alt="">
+            <a href= "http://www.myrecipes.com/recipe/hot-chocolate-fudge-cakes-10000001860091/"> View Recipe </a>
+            </td>
+		<td>
+			<img src="images/images/desserts_11.gif" width="514" height="358" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="358" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/cherry-cake.gif" width="573" height="483" alt="">
+            <a href= "http://www.foodnetwork.com/recipes/food-network-kitchens/cherry-chocolate-ice-cream-recipe.html"> View Recipe </a>
+            </td>
+		<td rowspan="3">
+			<img src= "images/images/desserts_13.gif" width="45" height="625" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="247" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="2">
+			<img src="images/images/desserts_14.gif" width="645" height="378" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="236" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/desserts_15.gif" width="573" height="142" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="142" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="100" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="2" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="443" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="108" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="94" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="514" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="59" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="45" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
+
+Fv.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="fv.aspx.cs" Inherits="f_v" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (fruits vegetables) -->
+<form id="form2" runat="server">
+   <div>
+    </div>
+    </form>
+<img src="images/images/fruits-vegetables.gif" width="1365" height="1800" alt="" />
+<!-- End Save for Web Slices -->
+ 
+</body>
+</html>
+
+Location.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="location.aspx.cs" Inherits="location" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    <form id="form2" runat="server">
+    <div>
+    </div>
+    </form>
+    <h1> COSTCO </h1>
+    <a href= "https://www.google.com/maps/place/Costco+Kansas+City/@39.067632,-94.580482,17z/data=!3m1!4b1!4m2!3m1!1s0x87c0f01f14723899:0x99e4309ca714a09d"> View Map </a>
+    <h1> WALLMART </h1>
+    <a href= "https://www.google.com/maps/place/Walmart+Neighborhood+Market/@39.0387628,-94.5784935,13z/data=!4m5!1m2!2m1!1swalmart!3m1!1s0x87c0ee3f4a030de9:0x2a60b16844d22eb5"> View Map </a>
+</body>
+</html>
+
+Login.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Login"  MasterPageFile="~/MasterPage.master" %>
+
+    <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    
+        <div class="style1">
+    
+            <p class="style1" style="margin-left: 120px">
+    
+        Login Page</p>
+        </div>
+    <table class="style2">
+        <tr>
+            <td class="style5">
+                UserName</td>
+            <td class="style6">
+                <asp:TextBox ID="TextBoxUN" runat="server" Width="180px"></asp:TextBox>
+            </td>
+            <td class="style7">
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                    ControlToValidate="TextBoxUN" ErrorMessage="Enter Username" ForeColor="Red"></asp:RequiredFieldValidator>
+            </td>
+        </tr>
+        <tr>
+            <td class="style5">
+                Password</td>
+            <td class="style6">
+                <asp:TextBox ID="TextBoxPWD" runat="server" TextMode="Password" Width="180px"></asp:TextBox>
+            </td>
+            <td class="style7">
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                    ControlToValidate="TextBoxPWD" ErrorMessage="Enter Password" ForeColor="Red"></asp:RequiredFieldValidator>
+            </td>
+        </tr>
+        <tr>
+            <td class="style3">
+                &nbsp;</td>
+            <td class="style4">
+                <asp:Button ID="Button_Login" runat="server" Height="26px" 
+                    onclick="Button_Login_Click" Text="Login" Width="155px" />
+            </td>
+            <td>
+                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Registration.aspx" 
+                    ForeColor="Red">New User ?</asp:HyperLink>
+            </td>
+        </tr>
+        <tr>
+            <td class="style3">
+                &nbsp;</td>
+            <td class="style4">
+                &nbsp;</td>
+            <td>
+                &nbsp;</td>
+        </tr>
+    </table>
+  </asp:Content>
+<asp:Content ID="Content2" runat="server" contentplaceholderid="head">
+    <style type="text/css">
+        .style1
+        {
+            font-size: xx-large;
+        }
+    </style>
+</asp:Content>
+
+
+Manager.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Manager.aspx.cs" Inherits="Manager" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        #form1
+        {
+            height: 247px;
+            width: 864px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <asp:SqlDataSource ID="SqlDataSourceRegistration" runat="server" 
+            ConnectionString="<%$ ConnectionStrings:RegistrationConnectionString %>" 
+            SelectCommand="SELECT * FROM [UserData]"></asp:SqlDataSource>
+    
+    </div>
+    <asp:GridView ID="GridView1" runat="server" AllowPaging="True" 
+        AllowSorting="True" AutoGenerateColumns="False" CellPadding="4" 
+        DataSourceID="SqlDataSourceRegistration" ForeColor="#333333" GridLines="None" 
+        Height="105px" Width="188px">
+        <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+        <Columns>
+            <asp:CommandField ShowSelectButton="True" />
+            <asp:BoundField DataField="ID" HeaderText="ID" SortExpression="ID" />
+            <asp:BoundField DataField="UserName" HeaderText="UserName" 
+                SortExpression="UserName" />
+            <asp:BoundField DataField="Email" HeaderText="Email" SortExpression="Email" />
+            <asp:BoundField DataField="Password" HeaderText="Password" 
+                SortExpression="Password" />
+            <asp:BoundField DataField="Country" HeaderText="Country" 
+                SortExpression="Country" />
+        </Columns>
+        <EditRowStyle BackColor="#999999" />
+        <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+        <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+        <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
+        <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
+        <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
+        <SortedAscendingCellStyle BackColor="#E9E7E2" />
+        <SortedAscendingHeaderStyle BackColor="#506C8C" />
+        <SortedDescendingCellStyle BackColor="#FFFDF8" />
+        <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
+    </asp:GridView>
+    </form>
+</body>
+</html>
+
+Manager.master
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            height: 80px;
+            width: 859px;
+        }
+        .style2
+        {
+            height: 300px;
+            width: 859px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table style = "font-family:@Arial Unicode MS">
+    <tr>
+    <td colspan="2" style="background-color:#3399FF;
+            text-align:"center" bgcolor="Yellow" class="style1">
+
+        <h1>My Groceries </h1>
+            
+            </td>
+    </tr>
+    <tr>
+    <td style="background-color"#9999FF"; width:350px</td bgcolor="Aqua" 
+            class="style2">
+
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    </tr>
+
+    </table>
+
+
+
+    </form>
+</body>
+</html>
+
+Meat.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Meat.aspx.cs" Inherits="Meat" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<form id="form2" runat="server">
+    <div >
+    
+    </div>
+    </form>
+<!-- Save for Web Slices (meat and seafood) -->
+<img src="images/images/meat-and-seafood.gif" width="1365" height="1800" alt="">
+<!-- End Save for Web Slices -->
+   
+</body>
+</html>
+
+
+
+Pizza.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="pizza.aspx.cs" Inherits="pizza" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (sandwiches) -->
+    <form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+    <table id="Table_01" width="1366" height="1801" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="7">
+			<img src="images/images/pizzas_01.gif" width="1365" height="388" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="388" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<img src="images/images/pizzas_02.gif" width="59" height="1412" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/chicago-pizza.gif" width="441" height="542" alt="">
+            <a href= "http://www.pizzamaking.com/lehmann_crackerstyle.php"> View Recipe </a>
+            </td>
+		<td colspan="4">
+			<img src="images/images/pizzas_04.gif" width="865" height="148" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="148" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/images/pizzas_05.gif" width="192" height="573" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/macaroni-pizza.gif" width="569" height="504" alt="">
+            <a href= "http://www.thegunnysack.com/2013/09/macaroni-and-cheese-pizza-recipe.html"> View Recipe </a>
+            </td>
+		<td rowspan="5">
+			<img src="images/images/pizzas_07.gif" width="104" height="1264" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="394" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/pizzas_08.gif" width="441" height="179" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="110" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/pizzas_09.gif" width="569" height="69" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="69" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/pizzas_10.gif" width="68" height="691" alt=""></td>
+		<td colspan="3">
+			<img src="images/images/pepperoni-pizza.gif" width="647" height="435" alt="">
+            <a href= "http://www.myrecipes.com/recipe/pepperoni-pizza-10000001599569/"> View Recipe</a>
+            </td>
+		<td rowspan="2">
+			<img src="images/images/pizzas_12.gif" width="487" height="691" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="435" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="images/images/pizzas_13.gif" width="647" height="256" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="256" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="59" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="68" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="373" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="192" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="82" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="487" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="104" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
+
+
+Recipe.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="recipe.aspx.cs" Inherits="recipe" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+<!-- Save for Web Slices (Untitled-2) -->
+<table id="Table_01" width="1366" height="1801" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="7">
+			<img src="images/images/recipes-home_01.gif" width="1365" height="296" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="296" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<img src="images/images/recipes-home_02.gif" width="711" height="152" alt=""></td>
+		<td rowspan="2">
+			<img src= "images/images/sandwich-recipe.gif" width="605" height="414" alt="">
+             <a href= "sandwich.aspx"> View sandwiches </a>
+            </td>
+		<td rowspan="10">
+			<img src="images/images/recipes-home_04.gif" width="49" height="1504" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="152" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="9">
+			<img src="images/images/recipes-home_05.gif" width="66" height="1352" alt=""></td>
+		<td colspan="2" rowspan="3">
+			<img src="images/images/burger-recipe.gif" width="546" height="472" alt="">
+             <a href= "Burger.aspx"> View Burgers </a>
+            </td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/recipes-home_07.gif" width="99" height="374" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="262" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/recipes-home_08.gif" width="605" height="112" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="112" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="7">
+			<img src="images/images/recipes-home_09.gif" width="32" height="978" alt=""></td>
+		<td colspan="2" rowspan="3">
+			<img src="images/images/dessert-recipe.gif" width="672" height="336" alt="">
+             <a href= "desserts.aspx"> View Desserts </a>
+            </td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="98" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/recipes-home_11.gif" width="546" height="131" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="131" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="5">
+			<img src="images/images/recipes-home_12.gif" width="19" height="749" alt=""></td>
+		<td rowspan="3">
+			<img src="images/images/soup-recipe.gif" width="527" height="425" alt="">
+             <a href= "ss.aspx"> View  Soups&Salads </a>
+            </td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="107" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/recipes-home_14.gif" width="672" height="106" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="106" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/pizza-recipe.gif" width="672" height="377" alt="">
+             <a href= "pizza.aspx"> View Pizzas </a>
+            </td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="212" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/recipes-home_16.gif" width="527" height="324" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="165" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/recipes-home_17.gif" width="672" height="159" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="159" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="66" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="19" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="527" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="32" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="67" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="605" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="49" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+
+</body>
+</html>
+
+
+Registration.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Registration.aspx.cs" Inherits="Registration" MasterPageFile="~/MasterPage.master" %>
+
+    <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <h1 style="margin-left: 280px"> Registration Page </h1>
+    <div>
+    
+        <table class="style1" 
+            style="height: 553px; width: 818px; margin-top: 0px; margin-bottom: 0px">
+            <tr>
+                <td class="style76">
+                    UserName</td>
+                <td class="style77">
+                    <asp:TextBox ID="TextBoxUN" runat="server" Width="200px"></asp:TextBox>
+                </td>
+                <td class="style78">
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                        ControlToValidate="TextBoxUN" ErrorMessage="Username required" ForeColor="Red"></asp:RequiredFieldValidator>
+                </td>
+            </tr>
+            <tr>
+                <td class="style77">
+                    Email</td>
+                <td class="style80">
+                    <asp:TextBox ID="TextBoxEMAIL" runat="server" Width="200px"></asp:TextBox>
+                </td>
+                <td class="style78">
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                        ControlToValidate="TextBoxEMAIL" ErrorMessage="Email required" ForeColor="Red"></asp:RequiredFieldValidator>
+                    <br />
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" 
+                        ControlToValidate="TextBoxEMAIL" ErrorMessage="Enter valid ID" ForeColor="Red" 
+                        ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
+                </td>
+            </tr>
+            <tr>
+                <td class="style69">
+                    Password</td>
+                <td class="style70">
+                    <asp:TextBox ID="TextBoxPWD" runat="server" Width="200px" TextMode="Password"></asp:TextBox>
+                </td>
+                <td class="style71">
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                        ControlToValidate="TextBoxPWD" ErrorMessage="password required" ForeColor="Red"></asp:RequiredFieldValidator>
+                </td>
+            </tr>
+            <tr>
+                <td class="style57">
+                    Confirm Password</td>
+                <td class="style58">
+                    <asp:TextBox ID="TextBoxCPWD" runat="server" Width="200px" TextMode="Password"></asp:TextBox>
+                </td>
+                <td class="style59">
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
+                        ControlToValidate="TextBoxCPWD" ErrorMessage="Confirm password required" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
+                    <br />
+                    <asp:CompareValidator ID="CompareValidator1" runat="server" 
+                        ControlToCompare="TextBoxPWD" ControlToValidate="TextBoxCPWD" 
+                        ErrorMessage="password mismatch" ForeColor="Red"></asp:CompareValidator>
+                </td>
+            </tr>
+            <tr>
+                <td class="style65">
+                    Country</td>
+                <td class="style66">
+                    <asp:DropDownList ID="DropDownListCountry" runat="server" Width="200px">
+                        <asp:ListItem>Select country</asp:ListItem>
+                        <asp:ListItem>India</asp:ListItem>
+                        <asp:ListItem>USA</asp:ListItem>
+                        <asp:ListItem>UK</asp:ListItem>
+                        <asp:ListItem>Germany</asp:ListItem>
+                    </asp:DropDownList>
+                </td>
+                <td class="style67">
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                        ControlToValidate="DropDownListCountry" ErrorMessage="Select a country" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
+                </td>
+
+                <td class="style68">
+                    </td>
+            </tr>
+            
+        </table>
+        <div style="margin-left: 320px">
+          
+                    <asp:Button ID="Button1" runat="server" Text="Submit" Width="72px" 
+                        Height="39px" onclick="Button1_Click1" />
+                    <input id="Reset1" type="reset" value="reset" />
+                
+            
+        </div>
+    
+    </div>
+  </asp:Content>
+<asp:Content ID="Content3" runat="server" contentplaceholderid="head">
+    <style type="text/css">
+        .style57
+        {
+            height: 26px;
+            width: 859px;
+        }
+        .style58
+        {
+            width: 855px;
+            height: 26px;
+        }
+        .style59
+        {
+            width: 818px;
+            height: 26px;
+        }
+        .style65
+        {
+            height: 7px;
+            width: 859px;
+        }
+        .style66
+        {
+            width: 855px;
+            height: 7px;
+        }
+        .style67
+        {
+            width: 818px;
+            height: 7px;
+        }
+        .style68
+        {
+            height: 7px;
+        }
+        .style69
+        {
+            height: 28px;
+            width: 859px;
+        }
+        .style70
+        {
+            width: 855px;
+            height: 28px;
+        }
+        .style71
+        {
+            width: 818px;
+            height: 28px;
+        }
+        .style76
+        {
+            height: 16px;
+            width: 859px;
+        }
+        .style77
+        {
+            width: 855px;
+            height: 16px;
+        }
+        .style78
+        {
+            width: 818px;
+            height: 16px;
+        }
+        .style80
+        {
+            height: 16px;
+        }
+    </style>
+</asp:Content>
+
+
+Sandwich.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="sandwich.aspx.cs" Inherits="Default2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (sandwiches) -->
+    <table id="Table_01" width="1365" height="1801" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="7">
+			<img src="images/images/sandwiches_01.gif" width="1365" height="377" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="5">
+			<img src="images/images/sandwiches_02.gif" width="79" height="1423" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src=" images/images/avacadosandwiches_03.gif" width="625" height="436" />
+             <a href= "http://www.tasty-sandwich-recipes.com/avocado-egg-salad.html"> View Recipe </a>
+            </td>
+		<td colspan="4">
+			<img src="images/images/sandwiches_04.gif" width="661" height="28" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/sandwiches_05.gif" width="24" height="590" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/braziliansandwiches_06.gif" width="598" height="408" />
+            <a href= "http://www.tasty-sandwich-recipes.com/chicken-salad-sandwich.html"> View Recipe </a>
+            </td>
+		<td rowspan="4">
+			<img src="images/images/sandwiches_07.gif" width="39" height="1395" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/images/sandwiches_08.gif" width="625" height="182" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/sandwiches_09.gif" width="598" height="182" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/sandwiches_10.gif" width="230" height="805" alt=""></td>
+		<td colspan="3">
+			<img src="images/images/hamburgersandwiches_11.gif" width="791" height="398" />
+            <a href= "http://www.cooks.com/recipe/ea5at9p7/hamburger-sandwiches.html"> View Recipe </a>
+            </td>
+		<td rowspan="2">
+			<img src="images/images/sandwiches_12.gif" width="226" height="805" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="images/images/sandwiches_13.gif" width="791" height="407" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="79" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="230" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="395" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="24" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="372" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="226" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="39" height="1" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+
+</body>
+</html>
+
+
+ss.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ss.aspx.cs" Inherits="ss" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (sandwiches) -->
+    <form id="form2" runat="server">
+    <div>
+    
+    </div>
+    </form>
+
+<table id="Table_01" width="1366" height="1801" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="10">
+			<img src="images/images/soups-salads_01.gif" width="1365" height="381" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="381" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="4">
+			<img src="images/images/soups-salads_02.gif" width="113" height="484" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/chicken-manchowsoups-salads_03.gif" width="443" height="330" alt="">
+              <a href= "http://cooks.ndtv.com/recipe/show/chicken-manchow-soup-219345"> chicken manchow</a>
+            </td>
+		<td colspan="6">
+			<img src="images/images/soups-salads_04.gif" width="809" height="111" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="111" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3" rowspan="3">
+			<img src="images/images/soups-salads_05.gif" width="151" height="373" alt=""></td>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/black-beansoups-salads_06.gif" width="576" height="330" alt="">
+              <a href= "http://www.foodnetwork.com/recipes/dave-lieberman/black-bean-soup-recipe.html"> bean soup</a>
+            </td>
+		<td rowspan="9">
+			<img src="images/images/soups-salads_07.gif" width="82" height="1308" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="219" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/soups-salads_08.gif" width="443" height="154" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="111" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/soups-salads_09.gif" width="576" height="149" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="43" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<img src="images/images/soups-salads_10.gif" width="81" height="935" alt=""></td>
+		<td colspan="4" rowspan="2">
+			<img src="images/images/corn-soups-salads_11.gif" width="505" height="326" alt="">
+            <a href= "http://www.foodnetwork.com/recipes/ellie-krieger/creamy-corn-and-vegetable-soup-recipe.html"> View Recipe</a>
+            </td>
+		<td colspan="2">
+			<img src="images/images/soups-salads_12.gif" width="121" height="106" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="106" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/images/soups-salads_13.gif" width="57" height="356" alt=""></td>
+		<td colspan="3" rowspan="2">
+			<img src="images/images/chicken-salad-soups-salads_14.gif" width="640" height="330" alt="">
+            <a href= "http://www.simplyrecipes.com/recipes/chicken_salad/"> View Recipe</a>
+            </td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="220" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="4" rowspan="2">
+			<img src="images/images/soups-salads_15.gif" width="505" height="136" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="110" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="images/images/soups-salads_16.gif" width="640" height="26" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="26" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="images/images/soups-salads_17.gif" width="250" height="473" alt=""></td>
+		<td colspan="5">
+			<img src="images/images/carrot-salad-soups-salads_18.gif" width="608" height="327" alt="">
+            <a href= "http://southernfood.about.com/od/carrots/r/blbb274.htm"> View Recipe</a>
+            </td>
+		<td rowspan="2">
+			<img src="images/images/soups-salads_19.gif" width="344" height="473" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="327" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="5">
+			<img src="images/images/soups-salads_20.gif" width="608" height="146" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="146" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="81" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="32" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="218" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="225" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="30" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="57" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="64" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="232" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="344" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="82" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+
+</body>
+</html>
+
+user.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Users.aspx.cs" Inherits="Users" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /></title>
+    <style type="text/css">
+        #Table_01
+        {
+            height: 1470px;
+            width: 895px;
+        }
+    </style>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" 
+    marginheight="0" style="height: 1941px; width: 1273px">
+
+<form id="form1" runat="server">
+    <div style="height: 148px; width: 267px; margin-left: 1102px;">
+    
+        <br />
+&nbsp;
+    
+        <asp:Label ID="Label_welcome" runat="server" Text="Welcome....."></asp:Label>
+        <br />
+        <br />
+        <br />
+        <asp:Button ID="B_Logout" runat="server" onclick="Button1_Click" 
+            Text="Logout" style="height: 26px" BackColor="#99FF33" ForeColor="Red" />
+    
+    </div>
+    </form>
+<!-- Save for Web Slices (Untitled-1) -->
+<table id="Table_01" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="8">
+			<img src="images/images/homepage_01.gif" width="1365" height="1051" alt="" 
+                style="margin-right: 0px"></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="1051" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="8">
+			<img src="images/images/homepage_02.gif" width="57" height="749" alt=""></td>
+		<td rowspan="3">
+			<img src="images/images/homepage_03.gif" width="394" height="304" alt="">
+            <a href= "dairy.aspx"> Dairy Products </a>
+            </td>
+		<td colspan="2" rowspan="6">
+			<img src="images/images/homepage_04.gif" width="37" height="432" alt=""></td>
+		<td rowspan="2">
+			<img src="images/images/homepage_05.gif" width="425" height="299" alt="">
+            <a href= "fv.aspx"> Fruits and vegetables </a>
+            </td>
+		<td rowspan="8">
+			<img src="images/images/homepage_06.gif" width="29" height="749" alt=""></td>
+		<td>
+			<img src="images/images/homepage_07.gif" width="384" height="289" alt="">
+            <a href= "Meat.aspx"> Meat&Seafood </a>
+            </td>
+		<td rowspan="8">
+			<img src="images/images/homepage_08.gif" width="39" height="749" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="289" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/images/homepage_09.gif" width="384" height="119" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="10" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="4">
+			<img src="images/images/homepage_10.gif" width="425" height="133" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="5" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/homepage_11.gif" width="394" height="108" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="104" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="3">
+			<img src="images/images/homepage_12.gif" width="384" height="307" alt="">
+            <a href= "location.aspx"> Location </a>
+            </td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="4" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/homepage_13.gif" width="394" height="303" alt="">
+            <a href= "babycare.aspx"> Babycare </a>
+            </td>
+
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="20" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/images/homepage_14.gif" width="35" height="317" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/homepage_15.gif" width="427" height="283" alt="">
+            <a href= "recipe.aspx"> Recipe </a>
+            </td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="283" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/homepage_16.gif" width="394" height="34" alt=""></td>
+		<td colspan="2">
+			<img src="images/images/homepage_17.gif" width="427" height="34" alt=""></td>
+		<td>
+			<img src="images/images/homepage_18.gif" width="384" height="34" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="1" height="34" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/images/spacer.gif" width="57" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="394" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="35" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="2" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="425" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="29" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="384" height="1" alt=""></td>
+		<td>
+			<img src="images/images/spacer.gif" width="39" height="1" alt=""></td>
+		<td></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
+
+
